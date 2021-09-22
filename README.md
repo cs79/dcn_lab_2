@@ -1,2 +1,2 @@
-# dcn_lab_2
+# Sample Time Web Application
 Code for example network application deployment
